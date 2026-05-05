@@ -1,0 +1,47 @@
+[
+  {
+    "name": "截图",
+    "folder": "Screen_Shot",
+    "file": "screen_shot.py",
+    "functions": [
+      "capture_and_send"
+    ],
+    "description": "屏幕截图并发送到飞书"
+  },
+  {
+    "name": "停止Trae",
+    "folder": "INT_TRAE",
+    "file": "int_trae.py",
+    "functions": [
+      "INT_TRAE"
+    ],
+    "description": "模拟鼠标左键点击指定坐标位置"
+  },
+  {
+    "name": "命令",
+    "folder": "LIST_CMD",
+    "file": "list_cmd.py",
+    "functions": [
+      "LIST_CMD"
+    ],
+    "description": "获取CMD_list.json内容并保存到日志文件"
+  },
+  {
+    "name": "发送文件",
+    "folder": "Send_File",
+    "file": "send_file.py",
+    "functions": [
+      "SEND_FILE"
+    ],
+    "description": "浏览目录并发送文件到飞书"
+  },
+  {
+    "name": "新任务",
+    "folder": "New_Task",
+    "file": "new_task.py",
+    "functions": [
+      "NEW_TASK"
+    ],
+    "description": "模拟键盘输入ctrl+alt+N"
+  }
+]

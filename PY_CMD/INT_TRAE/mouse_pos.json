@@ -1,0 +1,29 @@
+{
+  "clicks": [
+    {
+      "type": "left",
+      "abs_x": 266,
+      "abs_y": 0,
+      "delay": 4.756
+    },
+    {
+      "type": "left",
+      "abs_x": 54,
+      "abs_y": 0,
+      "delay": 4.616
+    },
+    {
+      "type": "left",
+      "abs_x": 559,
+      "abs_y": 0,
+      "delay": 2.922
+    },
+    {
+      "type": "left",
+      "abs_x": 925,
+      "abs_y": 0,
+      "delay": 5.53
+    }
+  ],
+  "count": 4
+}
