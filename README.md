@@ -27,7 +27,7 @@ No AI needed for simple tasks. Take screenshots, send files, launch apps, or run
 **Your PC responds instantly. No cloud. No delay. No cost.**
 
 ---
-![图片描述文字](image\openspider.jpg)
+![图片描述文字](image/openspider.jpg)
 ## 🎯 Why openspider?
 
 | Feature | Why It Matters |
