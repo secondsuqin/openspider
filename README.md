@@ -51,7 +51,7 @@ Mobile Chat → openspider → Desktop AI Agent (Trae/VS Code/Edge) → openspid
 ```
 
 The spider relays messages, handles UI/API interactions, and extracts responses for you.
-![图片描述文字](image\workway.jpg)
+![图片描述文字](image/workway.jpg)
 ### Command Mode Flow
 
 ```
