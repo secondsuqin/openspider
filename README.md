@@ -93,7 +93,7 @@ When you see the warning above, go back to **Feishu Developer Console** and do t
    - ✅ 消息被取消reaction (im.message.reaction)
 
 5. In **Permission Management**, click **Batch Import** and paste the contents from `飞书权限.txt` in the project root.
-![图片描述文字](image/飞书权限.jpg)
+![图片描述文字](image/权限管理.jpg)
 
 6. When Feishu prompts "版本发布后，当前修改方可生效" (Changes take effect after version release), click the **"创建版本" (Create Version)** button on that prompt, then save and confirm the release.
 
@@ -149,7 +149,7 @@ FEISHU_APP_SECRET = "你的App Secret"
    - ✅ 消息被取消reaction (im.message.reaction)
 
 5. 在**权限管理**中，点击**批量导入**，将项目根目录的 `飞书权限.txt` 文件内容粘贴进去
-![图片描述文字](image/飞书权限.jpg)
+![图片描述文字](image/权限管理.jpg)
 6. 当飞书提示"版本发布后，当前修改方可生效"时，点击提示中的**"创建版本"**按钮，然后保存并确认发布
 
 ---
